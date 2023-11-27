@@ -1,0 +1,20 @@
+body {
+    transition: background-color 0.3s ease;
+}
+
+/* .container {
+    text-align: center;
+    margin-top: 50px;
+} */
+
+.dark-mode {
+    background-color: #1e1e1e;
+    color: #ffffff;
+}
+.nav{
+    text-align: end;
+
+}
+#nav-element{
+    padding-right: 10px;
+}
